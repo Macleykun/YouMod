@@ -32,25 +32,25 @@ on:
 
       youpip:
         description: "Integrate YouPiP"
-        default: true
+        default: false
         required: false
         type: boolean
 
       ytuhd:
         description: "Integrate YTUHD"
-        default: true
+        default: false
         required: false
         type: boolean
 
       ryd:
         description: "Integrate Return-YouTube-Dislikes"
-        default: true
+        default: false
         required: false
         type: boolean
 
       abconfig:
         description: "Integrate YTABConfig"
-        default: true
+        default: false
         required: false
         type: boolean
 
@@ -62,7 +62,7 @@ on:
 
       demc:
         description: "Integrate DontEatMyContent"
-        default: true
+        default: false
         required: false
         type: boolean
 
@@ -74,13 +74,13 @@ on:
 
       youslider:
         description: "Integrate YouSlider"
-        default: true
+        default: false
         required: false
         type: boolean
 
       gonerino:
         description: "Integrate Gonerino"
-        default: true
+        default: false
         required: false
         type: boolean
 
@@ -92,7 +92,7 @@ on:
 
       volboost:
         description: "Integrate VolumeBoostYT (Require iOS 16+)"
-        default: true
+        default: false
         required: false
         type: boolean
 
