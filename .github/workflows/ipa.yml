@@ -68,7 +68,7 @@ on:
 
       ytweaks:
         description: "Integrate YTweaks"
-        default: true
+        default: false
         required: false
         type: boolean
 
